@@ -1,0 +1,101 @@
+user_id,search_query,results_count,clicked,purchased
+U001,excel,99,0,0
+U002,aws,23,1,0
+U003,java,24,0,0
+U004,sql,86,0,0
+U005,excel,61,1,0
+U006,java,32,1,0
+U007,java,38,0,0
+U008,machine learning,120,0,0
+U009,sql,95,1,0
+U010,data science,111,1,1
+U011,python for beginners,37,0,0
+U012,react,93,1,0
+U013,ai course,10,1,0
+U014,python for beginners,10,0,0
+U015,python,170,1,1
+U016,react,79,1,0
+U017,react,46,1,0
+U018,blockchain,33,1,0
+U019,javascript,97,1,0
+U020,cyber security,67,1,0
+U021,aws,11,1,0
+U022,aws,65,0,0
+U023,react,11,1,0
+U024,data science,178,0,0
+U025,ml,0,0,0
+U026,excel,53,1,0
+U027,web development,77,0,0
+U028,excel,65,0,0
+U029,machine learning,87,0,0
+U030,cloud computing,79,0,0
+U031,web development,25,1,0
+U032,python for beginners,79,1,1
+U033,aws,68,0,0
+U034,excel,99,1,0
+U035,react,80,0,0
+U036,sql,42,0,0
+U037,aws,48,1,0
+U038,data science,91,0,0
+U039,cloud computing,25,1,0
+U040,blockchain,69,0,0
+U041,machine learning,178,0,0
+U042,sql,21,1,1
+U043,machine learning,58,0,0
+U044,python for beginners,28,1,1
+U045,ai course,10,1,0
+U046,javascript,84,1,0
+U047,machine learning,153,1,0
+U048,react,98,1,0
+U049,python for beginners,91,1,0
+U050,javascript,70,0,0
+U051,machine learning,117,0,0
+U052,cloud computing,30,0,0
+U053,cyber security,17,1,0
+U054,aws,42,1,0
+U055,sql,95,0,0
+U056,cloud computing,39,1,0
+U057,sql,63,1,0
+U058,cyber security,30,1,0
+U059,deep learning,73,1,0
+U060,aws,57,0,0
+U061,deep learning,44,1,0
+U062,web development,53,1,1
+U063,aws,15,0,0
+U064,deep learning,46,1,0
+U065,python,144,1,1
+U066,excel,72,0,0
+U067,web development,41,1,0
+U068,python,177,0,0
+U069,react,63,1,0
+U070,sql,33,0,0
+U071,java,56,1,0
+U072,blockchain,36,0,0
+U073,sql,99,1,0
+U074,data science,92,1,0
+U075,data science,75,1,1
+U076,python,62,0,0
+U077,ml,0,0,0
+U078,javascript,45,1,0
+U079,excel,25,0,0
+U080,web development,96,0,0
+U081,excel,75,1,0
+U082,web development,60,1,0
+U083,sql,31,1,0
+U084,react,61,0,0
+U085,python for beginners,24,0,0
+U086,python,150,1,1
+U087,cyber security,14,1,0
+U088,ml,0,0,0
+U089,data science,143,1,0
+U090,react,61,0,0
+U091,sql,39,0,0
+U092,data science,169,0,0
+U093,python,141,1,0
+U094,data science,166,0,0
+U095,ml,0,0,0
+U096,aws,21,1,0
+U097,cloud computing,10,1,0
+U098,data science,167,1,0
+U099,python,166,1,0
+U100,ml,5,1,0
