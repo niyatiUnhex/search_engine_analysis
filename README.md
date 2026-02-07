@@ -18,10 +18,15 @@ The objective of this project is to analyze search behavior and extract meaningf
 
 ## 📁 Project Structure
 search_engine_analysis/
+
 ├── search_engine_analytics.ipynb
+
 ├── search_data.csv
+
 ├── keyword_performance_report.csv
+
 ├── data_analysis_report_by_Niyati.pptx
+
 └── README.md
 ---
 
@@ -45,15 +50,16 @@ Install them using:
 ```bash
 pip install pandas numpy matplotlib seaborn notebook
 
-
+```
 🚀 How to Run
 
 1. Clone the repository:
-
+```
 git clone https://github.com/niyatiUnhex/search_engine_analysis.git
 cd search_engine_analysis
-
+```
 2. Open the notebook:
+
 jupyter notebook search_engine_analytics.ipynb
 
 
